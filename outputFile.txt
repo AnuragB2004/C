@@ -1,0 +1,3 @@
+Original String: ABCD
+Length = 4
+Modified string; abcd
